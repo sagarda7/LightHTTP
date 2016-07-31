@@ -8,7 +8,7 @@ This library makes easy to perform HTTP request and handle responses easily
 * Auto evict item in cache if not used for recently
 
 # Sample App
-![Screen 1](https://bytebucket.org/sagarda7/mindvalley_sagardevkota_android_test/raw/ba8a261e94440353f3c16c740a1e87a14ae0218d/screenshots/screen.jpg?token=5718ae78097510fb5f76dfb0fe79f1171c196cd2 "")
+![Screen 1](https://raw.githubusercontent.com/sagarda7/LightHTTP/master/screenshots/screen.jpg "")
 
 # Download Sample App
 [lighthttp_app.apk](http://www.sagardevkota.com.np/lighthttp_app.apk) and install it to your mobile
@@ -16,7 +16,7 @@ This library makes easy to perform HTTP request and handle responses easily
 # Install
 
 The library can be used as standard android project, which can be imported from build.gradle
-or download [lighthttp.1.0.jar](https://bitbucket.org/sagarda7/mindvalley_sagardevkota_android_test/raw/5b094288f64ae1cafad3b2cef5579f03188b52ed/lighthttp1.0.jar) and put this in libs folder of your project
+or download [lighthttp.1.0.jar](https://github.com/sagarda7/LightHTTP/blob/master/lighthttp.1.0.jar?raw=true) and put this in libs folder of your project
 
 
 # Usage
