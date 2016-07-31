@@ -16,7 +16,7 @@ This library makes easy to perform HTTP request and handle responses easily
 # Install
 
 The library can be used as standard android project, which can be imported from build.gradle
-or download [lighthttp.1.0.jar](https://bitbucket.org/sagarda7/mindvalley_sagardevkota_android_test/raw/5b094288f64ae1cafad3b2cef5579f03188b52ed/lighthttp1.0.jar) and put this in libs folder of your project
+or download [lighthttp.1.0.jar](https://github.com/sagarda7/LightHTTP/blob/master/lighthttp.1.0.jar?raw=true) and put this in libs folder of your project
 
 
 # Usage
