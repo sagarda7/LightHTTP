@@ -8,7 +8,7 @@ This library makes easy to perform HTTP request and handle responses easily
 * Auto evict item in cache if not used for recently
 
 # Sample App
-![Screen 1](https://bytebucket.org/sagarda7/mindvalley_sagardevkota_android_test/raw/ba8a261e94440353f3c16c740a1e87a14ae0218d/screenshots/screen.jpg?token=5718ae78097510fb5f76dfb0fe79f1171c196cd2 "")
+![Screen 1](LightHTTP/screenshots/screen.jpg "")
 
 # Download Sample App
 [lighthttp_app.apk](http://www.sagardevkota.com.np/lighthttp_app.apk) and install it to your mobile
