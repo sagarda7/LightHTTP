@@ -11,7 +11,7 @@ This library makes easy to perform HTTP request and handle responses easily
 ![Screen 1](https://raw.githubusercontent.com/sagarda7/LightHTTP/master/screenshots/screen.jpg "")
 
 # Download Sample App
-[lighthttp_app.apk](http://www.sagardevkota.com.np/lighthttp_app.apk) and install it to your mobile
+[lighthttp_app.apk](https://github.com/sagarda7/LightHTTP/blob/master/lighthttp_app.apk?raw=true) and install it to your mobile
 
 # Install
 
