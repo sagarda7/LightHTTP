@@ -293,7 +293,6 @@ or download [lighthttp.1.0.jar](https://bitbucket.org/sagarda7/mindvalley_sagard
 * CacheManager class implements CacheManagerInterface and setCacheManager method in Type class depends on abstraction i.e interface, so it is loosely coupled, tried this for D in SOLID
 * When we need to add support for XML, just add new class called XMLDataType and make XMLRequestTask Class without touching existing class in datatypes package and request class
 * I have created few(Not All) unit tests of library in MindValleyLibraryTest class
-* I have also generated javadoc, see javadoc folder in root 
 * The coding may have some improvements and missing as this is 2 days work.  and contribution are welcomed :) 
 
 ### Contact
